@@ -1,0 +1,43 @@
+
+body{
+	
+	
+	background: linear-gradient(to right, #33ccff 0%, #ff66ff 100%);
+	/*background-image: url(https://images.pexels.com/photos/1563356/pexels-photo-1563356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);*/
+}
+
+.board{
+	font-family: "Lucida Console", "Courier New", monospace;
+	width: 600px;
+	margin: 0 auto;
+}
+
+.imagess{
+	position: relative;
+}
+.over{
+	border: 2px solid black;
+	background: linear-gradient(to bottom left, #00ffff 0%, #ff99cc 100%);
+	position: absolute;
+	width: 610px;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+.button1{
+	font-family: "Lucida Console", "Courier New", monospace;
+	background-color: #03fcf8;
+  	color: black;
+  	border: 2px solid #555555;
+  	font-size: 20px;
+}
+
+h1{
+	text-align: center;
+	margin-top: 100px;
+}
+img{
+width: 125px;
+height: 125px;
+
+}
